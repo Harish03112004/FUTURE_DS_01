@@ -134,3 +134,6 @@ The dashboard helps decision-makers quickly understand sales performance, custom
 * Dashboard Design Best Practices
 
 ---
+
+## 🚀 Screenshot
+![Dashboard Review](https://github.com/Harish03112004/FUTURE_DS_01/blob/main/E-commerce%20sales%20Report.png)
